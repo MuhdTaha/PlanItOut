@@ -45,15 +45,16 @@
 
 ## 📷 Screenshots
 
-![Screenshot of Splash Screen](https://drive.google.com/file/d/1fAgIxdXu5BuOPT2-eQ5vj1spCzN7oEHj/view?usp=drive_link)
-![Screenshot of Login Screen](https://drive.google.com/file/d/1BD-QPokBnJlpP17yTeKXr0Q1-9RXJXCZ/view?usp=sharing)
-![Screenshot of Signup Screen](https://drive.google.com/file/d/1iHTnwDJOWyb2T0AYoE6adWXPbBJnB4C6/view?usp=sharing)
-![Screenshot of Dashboard Screen](https://drive.google.com/file/d/1BTJjQBjz5VkrTLtr9hhXKQv3nNJiqfIG/view?usp=sharing)
-![Screenshot of Create Event Screen](https://drive.google.com/file/d/13tqjCXxpf5mhRtwg7XYAcNgNF5_yn2Yp/view?usp=sharing)
-![Screenshot of Map Screen](https://drive.google.com/file/d/11gjkgRYWs7qiMPMWiyhybaDggx5KAD_2/view?usp=sharing)
-![Screenshot of Calendar Screen](https://drive.google.com/file/d/1hZuDtYt8cPn3PqxZcoBUXGyoS5ZF5B1D/view?usp=sharing)
-![Screenshot of Profile Screen](https://drive.google.com/file/d/1F9uLJY8_Wo5ytyJ7C4GzBg8siKDiO02S/view?usp=sharing)
-![Screenshot of Notification Screen](https://drive.google.com/file/d/1jxS_XfvBtJkNZEmh_supIfGQIsPd1IyV/view?usp=sharing)
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="https://drive.google.com/uc?export=view&id=1fAgIxdXu5BuOPT2-eQ5vj1spCzN7oEHj" alt="Splash" style="width: 200px; margin: 10px;">
+  <img src="https://drive.google.com/uc?export=view&id=1BD-QPokBnJlpP17yTeKXr0Q1-9RXJXCZ" alt="Login" style="width: 200px; margin: 10px;">
+  <img src="https://drive.google.com/uc?export=view&id=1iHTnwDJOWyb2T0AYoE6adWXPbBJnB4C6" alt="Signup" style="width: 200px; margin: 10px;">
+  <img src="https://drive.google.com/uc?export=view&id=1BTJjQBjz5VkrTLtr9hhXKQv3nNJiqfIG" alt="Dashboard" style="width: 200px; margin: 10px;">
+  <img src="https://drive.google.com/uc?export=view&id=13tqjCXxpf5mhRtwg7XYAcNgNF5_yn2Yp" alt="Create Event" style="width: 200px; margin: 10px;">
+  <img src="https://drive.google.com/uc?export=view&id=11gjkgRYWs7qiMPMWiyhybaDggx5KAD_2" alt="Map" style="width: 200px; margin: 10px;">
+  <img src="https://drive.google.com/uc?export=view&id=1hZuDtYt8cPn3PqxZcoBUXGyoS5ZF5B1D" alt="Calendar" style="width: 200px; margin: 10px;">
+  <img src="https://drive.google.com/uc?export=view&id=1F9uLJY8_Wo5ytyJ7C4GzBg8siKDiO02S" alt="Profile" style="width: 200px; margin: 10px;">
+</div>
 
 ---
 
